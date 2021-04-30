@@ -1,4 +1,4 @@
-#!/bin/bash
+i#!/bin/bash
 echo 'hello world'
 echo 'hello mehdi jannnnnn'
-
+echo 'ali shunam':
