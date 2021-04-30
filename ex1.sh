@@ -1,4 +1,4 @@
 #!/bin/bash
 echo 'hello world'
-echo 'hello mehdi jannnnnn'
+echo 'hello mehdi khannn'
 
